@@ -130,8 +130,3 @@ Real-World Sales Analysis
 Professional Dashboard Design
 
 ---
-
-# Learning Outcomes
-
-* Improved understanding of Tableau dashboards
-* Gained
