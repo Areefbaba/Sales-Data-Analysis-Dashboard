@@ -1,4 +1,4 @@
-# Sales-Data-Analysis-and-Interactive-Dashboard
+# Sales Data Analysis & Dashboard
 ##  Project Overview
 
 This project focuses on analyzing business sales data and building a professional interactive dashboard using Tableau. The dashboard helps organizations monitor sales performance, profitability, customer trends, and regional growth through data-driven visual insights.
