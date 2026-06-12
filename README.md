@@ -215,9 +215,3 @@ The project includes 25+ SQL queries covering:
 ## Author
 
 **Areef Baba**
-
-Aspiring Data Analyst | Python | SQL | Tableau | Machine Learning
-
-GitHub: Add Your GitHub Link Here
-
-LinkedIn: Add Your LinkedIn Profile Here
